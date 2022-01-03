@@ -8,7 +8,7 @@ h1{
 span {
   color: rgb(247, 16, 143);
 }
-section{
+.head, .foot{
     display: flex;
     margin: 0 0 150px 0;
 }
@@ -42,4 +42,7 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.size{
+    display: flex;
 }
