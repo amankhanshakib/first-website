@@ -10,7 +10,7 @@ span {
 }
 section{
     display: flex;
-    margin: 150px 0;
+    margin: 0 0 150px 0;
 }
 .letter{
     width: 50%;
